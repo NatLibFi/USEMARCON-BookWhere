@@ -12,6 +12,10 @@ Kopioi konversiopaketti päätteellesi esimerkiksi "Download ZIP" -painikkeesta.
 
 Yksityiskohtainen ohje BookWhere-poiminnasta ja tietueiden konvertoinnista löytyy Kuvailevan metatiedon asiantuntijaryhmän (KUMEA) wikistä: http://wiki.helsinki.fi/display/VoyagerTR/BookWhere/.
 
+PALAUTE
+
+marc-posti (at) helsinki.fi
+
 =================
 
 DESCRIPTION
