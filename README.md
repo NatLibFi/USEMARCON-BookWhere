@@ -1,8 +1,8 @@
-# USEMARCON-BookWhere
+# BookWhere-konversio
 
 KUVAUS
 
-Pääasiassa Melinda-kirjastoille suunnattu USEMARCON-konversiosääntö ulkomaisista tietokannoista poimittujen bibliografisten MARC 21 -tietueiden muuntamiseen kotimaisten luettelointikäytäntöjen mukaisiksi. Konversio mm. poistaa turhia kenttiä, suomentaa (tai ruotsintaa) tekijän funktiot sekä asettaa tai kääntää ISBD-kuvailusääntöjen mukaiset 336- ja 337-kentät.
+Pääasiassa Melinda-kirjastoille suunnattu USEMARCON-konversiosääntö esimerkiksi BookWhere-ohjelmalla ulkomaisista tietokannoista poimittujen bibliografisten MARC 21 -tietueiden muuntamiseen kotimaisten luettelointikäytäntöjen mukaisiksi. Konversio mm. poistaa turhia kenttiä, suomentaa (tai ruotsintaa) tekijän funktiot sekä asettaa tai kääntää ISBD-kuvailusääntöjen mukaiset 336- ja 337-kentät.
 
 Lisätietoja USEMARCON-ohjelmasta: http://www.nationallibrary.fi/libraries/format/usemarcon.html.
 
