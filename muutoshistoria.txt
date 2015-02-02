@@ -1,3 +1,8 @@
+2.2.2015
+
+- Nimiön merkkipaikkaan 17 asetetaan aina arvo '4' (Kansallinen kuvailutaso), alkutietueen arvosta riippumatta.
+
+======================================================
 13.1.2015
 
 - Kaikkien funktiokoodien käännökset lisätty
