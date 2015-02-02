@@ -1,5 +1,5 @@
 ﻿MARC 21 Bookwhere-siivous + RDA-kentat
-3.6.2013 - Kansalliskirjasto / Päivitetty 13.1.2015 TV
+3.6.2013 - Kansalliskirjasto / Päivitetty 2.2.2015 TV
 
 #define version 312
 
@@ -8,7 +8,7 @@
 000/7-9     | 000/7-9/    | S
 000/10/     | 000/10/     | 'a'
 000/11-17/  | 000/11-17/  | S
-000/18/	    | 000/18/     | If (RegFind(@000/18/, '[^\\d]') >= 0) Then '4' Else S
+000/18/	    | 000/18/     | '4'
 000/19/	    | 000/19/	  | 'i'
 000/20-24/  | 000/20-24/  | S
 
