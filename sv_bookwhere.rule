@@ -1,5 +1,5 @@
 ﻿MARC 21 Bookwhere-siivous (svenska) + RDA-kentat
-3.6.2013 - Kansalliskirjasto / Päivitetty 12.1.2015 TV
+3.6.2013 - Kansalliskirjasto / Päivitetty 4.2.2015 TV
 
 #define version 312
 
@@ -31,7 +31,7 @@
 008/24/         | 008/24/         | S
 008/24/         | 336(new)$a      | If (S = 'f') Then 'Text (att vidröra)' Else 'Text'
 008/24/         | 337(new)$a      | If (S = ' ' or S = '|' or S = 'd' or S = 'f' or S = 'r') Then 'ingen medietyp'
-008/24/         | 337(new)$a      | If (S = 'a' or S = 'b' or S = 'c') Then 'mikromuoto'
+008/24/         | 337(new)$a      | If (S = 'a' or S = 'b' or S = 'c') Then 'mikroform'
 008/24/         | 337(new)$a      | If (S = 'o' or S = 'q' or S = 's') Then 'elektronisk'
 #endif
 
@@ -39,7 +39,7 @@
 007/1/          | 007/1/          | S
 007/1/          | 336(new)$a      | If ((S = 'c' or S = 'h') And RegFind(@245$h, '[Mm]ultimedia') <0) Then 'Text'
 007/1/          | 337(new)$a      | If (S = 'c' And RegFind(@245$h, '[Mm]ultimedia') <0) Then 'elektronisk'
-007/1/          | 337(new)$a      | If (S = 'h' And RegFind(@245$h, '[Mm]ultimedia') <0) Then 'mikromuoto'
+007/1/          | 337(new)$a      | If (S = 'h' And RegFind(@245$h, '[Mm]ultimedia') <0) Then 'mikroform'
 007/1/          | 336(new)$a      | If (S = 's' And RegFind(@245$h, '[Mm]ultimedia') <0) Then 'Tal' //Oletus: Musiikkia ei ole tehty tekstipohjalla (?)
 007/1/          | 337(new)$a      | If (S = 's' And RegFind(@245$h, '[Mm]ultimedia') <0) Then 'audio'
 007/1/          | 336(new)$a      | If (S = 'q' And RegFind(@245$h, '[Mm]ultimedia') <0) Then 'Musik (notation)'
@@ -61,7 +61,7 @@
 008/24/         | 336(new)$a      | If (S != 'f') Then 'Musik (notation)'
 008/24          | 336(new)$a      | If (S = 'f') Then 'Musik (notation ; att vidröra)'
 008/24/         | 337(new)$a      | If (S = ' ' or S = '|' or S = 'd' or S = 'f' or S = 'r') Then 'ingen medietyp'
-008/24/         | 337(new)$a      | If (S = 'a' or S = 'b' or S = 'c') Then 'mikromuoto'
+008/24/         | 337(new)$a      | If (S = 'a' or S = 'b' or S = 'c') Then 'mikroform'
 008/24/         | 337(new)$a      | If (S = 'o' or S = 'q' or S = 's') Then 'elektronisk'
 #endif
 
@@ -75,7 +75,7 @@
 008/26/         | 336(new)$a      | If (S = 'd') Then 'Föremål (kartografisk)'
 008/30/         | 008/30/         | S
 008/30/         | 337(new)$a      | If (S = ' ' or S = '|' or S = 'd' or S = 'f' or S = 'r') Then 'ingen medietyp'
-008/30/         | 337(new)$a      | If (S = 'a' or S = 'b' or S = 'c') Then 'mikromuoto'
+008/30/         | 337(new)$a      | If (S = 'a' or S = 'b' or S = 'c') Then 'mikroform'
 008/30/         | 337(new)$a      | If (S = 'o' or S = 'q' or S = 's') Then 'elektronisk'
 #endif
 
@@ -132,7 +132,7 @@
 007/1/          | 336(new)$a      | If (S = 'k' and @008 = 'f') Then 'Bild (still ; att vidröra)'
 008/30/         | 008/30/         | S
 008/30/         | 337(new)$a      | If (S = ' ' or S = '|' or S = 'f' or S = 'r') Then 'ingen medietyp'
-008/30/         | 337(new)$a      | If (S = 'a' or S = 'b' or S = 'c') Then 'mikromuoto'
+008/30/         | 337(new)$a      | If (S = 'a' or S = 'b' or S = 'c') Then 'mikroform'
 008/30/         | 337(new)$a      | If (S = 'o' or S = 'q' or S = 's') Then 'elektronisk'
 #endif
 
@@ -169,7 +169,7 @@
 008/34/         | 008/34/         | S
 008/34/         | 336(new)$a      | 'Föremål'
 008/34/         | 337(new)$a      | 'ingen medietyp'
-008/34/         | 337(new)$a      | If (S = 'p') Then 'mikroskooppinen'
+008/34/         | 337(new)$a      | If (S = 'p') Then 'mikroskopisk'
 #endif
 
 010I1 | <DELI1 | S

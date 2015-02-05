@@ -1,3 +1,8 @@
+4.2.2015
+
+- Kaksi kääntämättä jäänyttä mediatyyppitunnusta korjattu ruotsinkielisessä konversiossa.
+
+======================================================
 2.2.2015
 
 - Nimiön merkkipaikkaan 17 asetetaan aina arvo '4' (Kansallinen kuvailutaso), alkutietueen arvosta riippumatta.
