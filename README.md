@@ -2,11 +2,11 @@
 
 KUVAUS
 
-Pääasiassa Melinda-kirjastoille suunnattu USEMARCON-konversiosääntö esimerkiksi BookWhere-ohjelmalla ulkomaisista tietokannoista poimittujen bibliografisten MARC 21 -tietueiden muuntamiseen kotimaisten luettelointikäytäntöjen mukaisiksi. Konversio mm. poistaa turhia kenttiä, suomentaa (tai ruotsintaa) tekijän funktiot sekä asettaa tai kääntää ISBD-kuvailusääntöjen mukaiset 336- ja 337-kentät.
+USEMARCON-konversiosääntö esimerkiksi BookWhere-ohjelmalla ulkomaisista tietokannoista poimittujen bibliografisten MARC 21 -tietueiden muuntamiseen kotimaisten luettelointikäytäntöjen mukaisiksi. Konversio mm. poistaa turhia kenttiä, suomentaa (tai ruotsintaa) tekijän funktiot sekä asettaa tai kääntää ISBD-kuvailusääntöjen mukaiset 336- ja 337-kentät.
 
-Lisätietoja USEMARCON-ohjelmasta: http://www.nationallibrary.fi/libraries/format/usemarcon.html.
+Tämä versio konversiosäännöstä on ISBD-kuvailusääntöjen mukainen. RDA-kuvailuohjeita käyttävien kirjastojen poimintaluettelointiin on saatavilla päivitetty versio: https://github.com/NatLibFi/USEMARCON-BOOKWHERE-RDA/.
 
-KÄYTTÖ
+Lisätietoja USEMARCON-ohjelmasta: https://www.kiwi.fi/display/Marc21/USEMARCON.
 
 Kopioi konversiopaketti päätteellesi esimerkiksi "Download ZIP" -painikkeesta. Pura paketti haluamaasi sijaintiin esimerkiksi C:\Usemarcon\ -hakemiston alle. Jos käytät USEMARCON GUI -käyttöliittymää, valitse haluamasi konversiosääntö "Conversion rule"-kohdassa (oletuksena bookwhere_utf8.ini).
 
