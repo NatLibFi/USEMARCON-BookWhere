@@ -1,4 +1,4 @@
-Funktiot.tbl -- BookWhere-konversio >> tekijän funktiotermit englannista suomeen
+Funktiot.tbl -- BookWhere-konversio >> tekijän funktiotermit englannista ja muistakin kielistä suomeen
 File generated: Wed Jan  7 10:10:50 2015
 
 a b r i d g e r 	| l y h e n t 0xc3 0xa4 j 0xc3 0xa4 
@@ -20,7 +20,7 @@ b r a i l l e 0x20 e m b o s s e r 	| p i s t e k i r j o i t u k s e n 0x20 v a
 b r o a d c a s t e r 	| l 0xc3 0xa4 h e t y k s e s t 0xc3 0xa4 0x20 v a s t a a v a 
 c a r t o g r a p h e r 	| k a r t a n t e k i j 0xc3 0xa4 
 c a s t e r 	| v a l a j a 
-c h o r e o g r a p h e r 	|   k o r e o g r a f i 
+c h o r e o g r a p h e r 	| k o r e o g r a f i 
 c o l l e c t i o n 0x20 r e g i s t r a r 	| k o k o e l m a n 0x20 l u e t t e l o i j a 
 c o l l e c t o r 	| k o k o e l m a n 0x20 m u o d o s t a j a 
 c o l l o t y p e r 	| k o l l o t y p i a n 0x20 t e k i j 0xc3 0xa4 
@@ -45,7 +45,7 @@ d e s i g n e r 	| s u u n n i t t e l i j a
 d i r e c t o r 	| o h j a a j a 
 d i r e c t o r 0x20 o f 0x20 p h o t o g r a p h y 	| k u v a a j a 
 d o n o r 	| l a h j o i t t a j a 
-d r a f t s m a n 	| p i i r t 0xc3 0xa4 j 0xc3 0xa4     
+d r a f t s m a n 	| p i i r t 0xc3 0xa4 j 0xc3 0xa4
 e d i t o r 	| t o i m i t t a j a 
 e d i t o r 0x20 o f 0x20 c o m p i l a t i o n 	| k o k o o m a t e o k s e n 0x20 t o i m i t t a j a 
 e d i t o r 0x20 o f 0x20 m o v i n g 0x20 i m a g e 	| l e i k k a a j a 
@@ -112,6 +112,7 @@ t e l e v i s i o n 0x20 d i r e c t o r 	| t e l e v i s i o - o h j a a j a
 t e l e v i s i o n 0x20 p r o d u c e r 	| t e l e v i s i o t u o t t a j a 
 t r a n s c r i b e r 	| s i i r t o k i r j o i t t a j a 
 t r a n s l a t o r 	| k 0xc3 0xa4 0xc3 0xa4 n t 0xc3 0xa4 j 0xc3 0xa4 
+V e r f a s s e r 	| k i r j o i t t a j a 
 v o i c e 0x20 a c t o r 	| 0xc3 0xa4 0xc3 0xa4 n i n 0xc3 0xa4 y t t e l i j 0xc3 0xa4
 w r i t e r 0x20 o f 0x20 a d d e d 0x20 c o m m e n t a r y 	| k o m m e n t a a r i n 0x20 k i r j o i t t a j a 
 w r i t e r 0x20 o f 0x20 a d d e d 0x20 l y r i c s 	| l i s 0xc3 0xa4 t y n 0x20 s a n o i t u k s e n 0x20 k i r j o i t t a j a 

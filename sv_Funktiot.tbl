@@ -1,4 +1,4 @@
-sv_Funktiot.tbl -- BookWhere-konversio >> tekijän funktiotermit englannista ruotsiin
+sv_Funktiot.tbl -- BookWhere-konversio >> tekijän funktiotermit englannista ja muistakin kielistä ruotsiin
 File generated: Wed Jan  7 10:11:44 2015
 
 a b r i d g e r 	| f 0xc3 0xb6 r k o r t a d 0x20 a v 
@@ -111,6 +111,7 @@ t e l e v i s i o n 0x20 d i r e c t o r 	| T V - r e g i s s 0xc3 0xb6 r
 t e l e v i s i o n 0x20 p r o d u c e r 	| T V - p r o d u c e n t 
 t r a n s c r i b e r 	| t r a n s k r i b e r a r e 
 t r a n s l a t o r 	| 0xc3 0xb6 v e r s 0xc3 0xa4 t t a r e 
+V e r f a s s e r 	| f 0xc3 0xb6 r f a t t a r e 
 v o i c e 0x20 a c t o r 	| r 0xc3 0xb6 s t s k 0xc3 0xa5 d e s p e l a r e 0x20 ? 
 w r i t e r 0x20 o f 0x20 a d d e d 0x20 c o m m e n t a r y 	| f 0xc3 0xb6 r f a t t a r e 0x20 t i l l 0x20 k o m m e n t a r 
 w r i t e r 0x20 o f 0x20 a d d e d 0x20 l y r i c s 	| f 0xc3 0xb6 r f a t t a r e 0x20 t i l l 0x20 b i f o g a d 0x20 t e x t 
